@@ -11,7 +11,7 @@ namespace Expat.Bayesian
 
     /*
      * Naive Baysian Spam Filter. 
-     * @author Arhipov A. 
+     * @author Arkhipov A. 
                                    */
      
 
